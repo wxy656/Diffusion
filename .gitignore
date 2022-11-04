@@ -1,0 +1,11 @@
+# linux
+*.swp
+*~
+
+# OS X
+*DS_Store*
+
+# IDE
+.idea/
+.vscode/
+
